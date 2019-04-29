@@ -4,8 +4,10 @@
 
 my_array[1 .. 6] 
 
-def roll(my_array)
-  
- return my_array.shiffle.first
+def roll
+  my_array[1 .. 6] 
+ return my_array.shuffle.first
  
 end
+
+roll
