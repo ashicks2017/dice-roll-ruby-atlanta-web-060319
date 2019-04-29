@@ -9,5 +9,3 @@ def roll(my_array)
  return my_array.rand
  
 end
-
-puts roll(my_array)
