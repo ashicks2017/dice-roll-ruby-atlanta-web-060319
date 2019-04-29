@@ -6,6 +6,6 @@ my_array[1 .. 6]
 
 def roll(my_array)
   
- return my_array.rand
+ return my_array.shiffle.first
  
 end
