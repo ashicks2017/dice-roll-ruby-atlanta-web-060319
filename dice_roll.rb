@@ -10,4 +10,4 @@ def roll(my_array)
  
 end
 
-puts roll
+puts roll(my_array)
