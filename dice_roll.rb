@@ -9,4 +9,4 @@ def roll
  
 end
 
-roll
+puts roll
